@@ -1,4 +1,4 @@
-# credit-risk-classification
+# Credit Risk Classification
 
 ## Overview of the Analysis
 
@@ -27,3 +27,9 @@ In the machine learning process, the dataset was split into training and testing
 ## Summary
 
 The Linear Regression model achieved high precision and recall scores for both regular loans and high-risk loans, indicating its effectiveness in distinguishing between the two classes. The model's high accuracy suggests that it performs well overall in classifying loans.
+
+## Technologies Used
+- [Python 3.10 or higher](https://www.python.org/)
+- [NumPy](https://www.numpy.org)
+- [Pandas](https://pandas.pydata.org/)
+- [Scikit-learn](https://scikit-learn.org/stable/index.html)
