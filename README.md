@@ -4,7 +4,7 @@
 
 The analysis aimed to develop a machine learning model to predict regular loans and high-risk loans. The purpose was to assist financial institutions in identifying loans that pose a higher risk of default or non-repayment, thus enabling better risk management practices.
 
-The dataset used contained various financial attributes related to loan applicants, such as loan size, interest rate, borrower income, debt-to-income ratio, number of accounts, derogatory marks,total debt, and loan status. The target variable was a binary classification indicating whether a loan was regular (low risk) or a high-risk loan.
+The dataset used contained various financial attributes related to loan applicants, such as loan size, interest rate, borrower income, debt-to-income ratio, number of accounts, derogatory marks, total debt, and loan status. The target variable was a binary classification indicating whether a loan was regular (low risk) or a high-risk loan.
 
 In the machine learning process, the dataset was split into training and testing sets, and a Linear Regression model was trained on the training data. Evaluation metrics such as precision, recall, and accuracy were calculated to assess the performance of the model.
 
